@@ -25,3 +25,16 @@ I then committed the change and pushed it to my forked repository.
 
 Finally, I created a pull request to submit my changes to the original repository.
 <img width="1901" height="972" alt="image" src="https://github.com/user-attachments/assets/83af92e7-07cd-42fd-b78a-3641befde375" />
+
+## Task 04 -  Get familiar with the command line on ubuntu and do the following subtasks:
+Objective: Get familiar with Command lines on Ubuntu and do the subtasks as given on MARVEL website.
+Outcomes & Learnings: I learned the use of the below commands in Ubuntu:
+
+```
+1. Create a folder named test        : mkdir test
+2. To change directory               : cd test
+3. Create a blank file               : touch blank.txt
+4. List files in the terminal        : ls
+5. Create 2600 folders               : mkdir M{0001..2600}
+6. Concatenate and display two text files : cat text1.txt text2.txt
+```
