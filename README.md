@@ -38,3 +38,4 @@ Outcomes & Learnings: I learned the use of the below commands in Ubuntu:
 5. Create 2600 folders               : mkdir M{0001..2600}
 6. Concatenate and display two text files : cat text1.txt text2.txt
 ```
+<img width="1893" height="1009" alt="image" src="https://github.com/user-attachments/assets/38d2576b-22e5-46d6-97e6-711c3d95a6e2" />
