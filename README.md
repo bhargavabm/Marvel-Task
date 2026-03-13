@@ -9,6 +9,19 @@ In this project, I developed a Weather Application that retrieves real-time weat
 To access the weather data, I used an API key provided by the OpenWeather platform.
 
 [Click here](https://codepen.io/BHARGAVA-B-M/full/ZYpOmMb) to access the API code.
-![](images/demo.png)
+<img width="1895" height="874" alt="image" src="https://github.com/user-attachments/assets/50b6f4d3-6de7-41fb-8c1d-0e5f4213ed8f" />
+
+
 ## Task 03 - Working with Github
 Objective: Familiarize yourself with GitHub integrated workflows (GitHub actions), Issues, and pull requests with this task.
+Outcomes and Learnings
+
+Through this task, I learned how to create and delete my own repositories on GitHub.  
+I also learned how to contribute to other people's repositories.
+
+First, I forked the given repository to my GitHub account and then cloned it to my local machine.  
+After cloning the repository, I made the required change in the code by removing the `+1` as instructed.  
+I then committed the change and pushed it to my forked repository.
+
+Finally, I created a pull request to submit my changes to the original repository.
+<img width="1901" height="972" alt="image" src="https://github.com/user-attachments/assets/83af92e7-07cd-42fd-b78a-3641befde375" />
