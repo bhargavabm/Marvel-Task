@@ -9,5 +9,6 @@ In this project, I developed a Weather Application that retrieves real-time weat
 To access the weather data, I used an API key provided by the OpenWeather platform.
 
 [Click here](https://codepen.io/BHARGAVA-B-M/full/ZYpOmMb) to access the API code.
+![](images/demo.png)
 ## Task 03 - Working with Github
 Objective: Familiarize yourself with GitHub integrated workflows (GitHub actions), Issues, and pull requests with this task.
