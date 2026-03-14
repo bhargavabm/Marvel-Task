@@ -100,3 +100,22 @@ Outcomes and Learnings:
 [Click here](https://www.tinkercad.com/things/iKlZi5SrhNW-frantic-gaaris)
 
 <img src="https://raw.githubusercontent.com/bhargavabm/images/main/Screenshot%202026-03-14%20130251.png" width="600">
+
+## Task 10 -  Speed Control of DC Motor
+Objective: Understand the control DC motors using the L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor driver, control the speed of a 5V motor.
+
+Outcomes and Learnings: This task made use of an Arduino uno board and a motor driver(L298N). The potentiometer is embedded on the breadboard and rotated to vary the speed of the DC motor.
+<div style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/bhargavabm/images/main/WhatsApp%20Image%202026-03-14%20at%204.12.13%20PM.jpeg"
+       width="700"
+       style="border-radius:10px;">
+</div>
+
+## LED Toggle Using ESP32
+Objective:
+To understand the working of the ESP32 and create a standalone web server using ESP32 to control an LED connected to its GPIO pins.
+
+Outcomes and Learnings:
+In this task, I used an ESP32 microcontroller and two LEDs, which were controlled through the Arduino IDE. The first step was to upload the required code to the ESP32. Then, I entered the mobile hotspot Wi-Fi credentials in the code so that the ESP32 could connect to the network. After uploading the code, the ESP32 generated an IP address. By entering this IP address into a web browser, a web page opened where I could toggle the LEDs on and off. Through this task, I learned how ESP32 can be used to create a simple web server and control devices using a web interface.
+
+
