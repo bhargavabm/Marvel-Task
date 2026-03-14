@@ -75,7 +75,8 @@ Outcomes & Learnings: I have learnt basic CSS and HTML to create a Portfolio web
 [Webpage Link](https://codepen.io/BHARGAVA-B-M/full/dPppJQQ)
 
 Below is my home page of the webiste:
-![]()
+
+<img src="https://raw.githubusercontent.com/bhargavabm/images/main/Screenshot%202026-03-14%20125555.png" width="600">
 
 ## Task 08 - Writing Resource Article using Markdown
 Objective: Write a technical resource article on a topic of your choice and post it on the MARVEL website.
@@ -86,7 +87,7 @@ Outcomes & Learnings:
 - I learned how private companies like SpaceX are **improving space exploration and satellite deployment**.
 - I gained knowledge about modern space missions and **innovation in aerospace engineering**.
   
-[Click Here](https://github.com/bhargavabm/images/blob/ed8946b71b75208c09f58668648dc78fb23842ee/spacex.md)
+[Click Here](https://github.com/bhargavabm/images/blob/4154e202497a229b956c3f01becd6af1b281ba07/spacex.md)
 
 ## Task 09 - Tinkercad
 Objective: The objective of this task was to create a tinkercad account & to make a simple circuit to estimate the distance between the ultrasonic sensor and the object.
@@ -96,5 +97,6 @@ Outcomes and Learnings:
 - Tinkercad is an online 3D design and modeling tool, used for creating 3D objects, circuits.
 - I tinkered a radar system using ultrasonic sensor which displays the distance range.
 
-  [Click here](https://www.tinkercad.com/things/iKlZi5SrhNW-frantic-gaaris)
-  ![]()
+[Click here](https://www.tinkercad.com/things/iKlZi5SrhNW-frantic-gaaris)
+
+<img src="https://raw.githubusercontent.com/bhargavabm/images/main/Screenshot%202026-03-14%20130251.png" width="600">
