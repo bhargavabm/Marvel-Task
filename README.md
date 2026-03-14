@@ -64,7 +64,8 @@ Outcomes and Learnings
 - I learned how to visualize matrices as images using **Matplotlib**.
 - I understood how numerical data can represent **visual information**.
 - This task helped me improve my understanding of **array manipulation and data visualization in Python**.
-![]()
+
+<img src="https://raw.githubusercontent.com/bhargavabm/images/main/Screenshot%202026-03-14%20124547.png" width="400">
 
 ## Task 07 -  Create a Portfolio Webpage
 Objective: Create a website to showcase your portfolio - about yourself, interests, projects, social media profiles and more. It has to be responsive and also pushed to the git repository. CSS can be of your choice and any framework can be used.
