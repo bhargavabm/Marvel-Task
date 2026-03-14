@@ -84,7 +84,8 @@ Outcomes & Learnings:
 - I understood how advanced technology helps rockets **land safely after launch**.
 - I learned how private companies like SpaceX are **improving space exploration and satellite deployment**.
 - I gained knowledge about modern space missions and **innovation in aerospace engineering**.
-
+  
+[Click Here](https://github.com/bhargavabm/images/blob/ed8946b71b75208c09f58668648dc78fb23842ee/spacex.md)
 
 ## Task 09 - Tinkercad
 Objective: The objective of this task was to create a tinkercad account & to make a simple circuit to estimate the distance between the ultrasonic sensor and the object.
