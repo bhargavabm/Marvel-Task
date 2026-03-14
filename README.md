@@ -51,4 +51,48 @@ Outcomes & Learning:
 - I compared my custom implementation with **scikit-learn's LinearRegression model**.
 - I learned how to evaluate model performance using metrics like **MSE, MAE, and R² score**.
 - This task helped me understand the internal working of regression models and the benefits of using built-in machine learning libraries.
-- 
+
+![](https://raw.githubusercontent.com/bhargavabm/images/refs/heads/main/Screenshot%202026-03-14%20114311.png)
+
+## Task 06 - The Matrix Puzzle — Decode with NumPy & Reveal the Image
+Objective:
+The objective of this task is to understand how NumPy can be used to manipulate matrices and decode a scrambled matrix to reveal a hidden image using visualization with Matplotlib.
+
+Outcomes and Learnings
+- I learned how to work with matrices using **NumPy**.
+- I understood how matrix operations can be used to **decode scrambled data**.
+- I learned how to visualize matrices as images using **Matplotlib**.
+- I understood how numerical data can represent **visual information**.
+- This task helped me improve my understanding of **array manipulation and data visualization in Python**.
+![]()
+
+## Task 07 -  Create a Portfolio Webpage
+Objective: Create a website to showcase your portfolio - about yourself, interests, projects, social media profiles and more. It has to be responsive and also pushed to the git repository. CSS can be of your choice and any framework can be used.
+
+Outcomes & Learnings: I have learnt basic CSS and HTML to create a Portfolio website to show information about myself. I hosted my website on Github to make it accessible to all.
+
+[Webpage Link](https://codepen.io/BHARGAVA-B-M/full/dPppJQQ)
+
+Below is my home page of the webiste:
+![]()
+
+## Task 08 - Writing Resource Article using Markdown
+Objective: Write a technical resource article on a topic of your choice and post it on the MARVEL website.
+Outcomes & Learnings:
+
+- I learned about the concept of **reusable rockets** used by SpaceX to reduce space mission costs.
+- I understood how advanced technology helps rockets **land safely after launch**.
+- I learned how private companies like SpaceX are **improving space exploration and satellite deployment**.
+- I gained knowledge about modern space missions and **innovation in aerospace engineering**.
+
+
+## Task 09 - Tinkercad
+Objective: The objective of this task was to create a tinkercad account & to make a simple circuit to estimate the distance between the ultrasonic sensor and the object.
+
+Outcomes and Learnings:
+
+- Tinkercad is an online 3D design and modeling tool, used for creating 3D objects, circuits.
+- I tinkered a radar system using ultrasonic sensor which displays the distance range.
+
+  [Click here](https://www.tinkercad.com/things/iKlZi5SrhNW-frantic-gaaris)
+  ![]()
