@@ -39,3 +39,16 @@ Outcomes & Learnings: I learned the use of the below commands in Ubuntu:
 6. Concatenate and display two text files : cat text1.txt text2.txt
 ```
 <img width="1893" height="1009" alt="image" src="https://github.com/user-attachments/assets/38d2576b-22e5-46d6-97e6-711c3d95a6e2" />
+
+## Task 05 - Build Your Own Brain -Linear Regression from Scratch
+Objective: Dive into the core of machine learning by implementing Linear Regression from scratch using , and compare its performance with the scikit-learn implementation. Use the California Housing dataset to evaluate your model on real-world data.
+
+Outcomes & Learning: 
+- I learned the basic concept of **Linear Regression** and how it predicts values by fitting a straight line to the data points.
+- I implemented **Linear Regression from scratch** using Python without using machine learning libraries.
+- I understood how **Gradient Descent** updates weights and bias to reduce prediction error.
+- I learned how to visualize data using graphs such as **scatter plots and regression lines**.
+- I compared my custom implementation with **scikit-learn's LinearRegression model**.
+- I learned how to evaluate model performance using metrics like **MSE, MAE, and R² score**.
+- This task helped me understand the internal working of regression models and the benefits of using built-in machine learning libraries.
+- 
