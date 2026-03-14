@@ -111,7 +111,7 @@ Outcomes and Learnings: This task made use of an Arduino uno board and a motor d
        style="border-radius:10px;">
 </div>
 
-## LED Toggle Using ESP32
+## Task 11 - LED Toggle Using ESP32
 Objective:
 To understand the working of the ESP32 and create a standalone web server using ESP32 to control an LED connected to its GPIO pins.
 
