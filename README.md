@@ -118,6 +118,7 @@ To understand the working of the ESP32 and create a standalone web server using 
 Outcomes and Learnings:
 In this task, I used an ESP32 microcontroller and two LEDs, which were controlled through the Arduino IDE. The first step was to upload the required code to the ESP32. Then, I entered the mobile hotspot Wi-Fi credentials in the code so that the ESP32 could connect to the network. After uploading the code, the ESP32 generated an IP address. By entering this IP address into a web browser, a web page opened where I could toggle the LEDs on and off. Through this task, I learned how ESP32 can be used to create a simple web server and control devices using a web interface.
 
+<img src="https://github.com/bhargavabm/images/blob/main/WhatsApp%20Image%202026-03-15%20at%2012.06.08%20PM.jpeg?raw=true" alt="Project Image">
 
 <h2 align="center">🎥 Project Demo 👇</h2>
 
