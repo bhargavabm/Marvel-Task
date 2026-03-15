@@ -119,3 +119,10 @@ Outcomes and Learnings:
 In this task, I used an ESP32 microcontroller and two LEDs, which were controlled through the Arduino IDE. The first step was to upload the required code to the ESP32. Then, I entered the mobile hotspot Wi-Fi credentials in the code so that the ESP32 could connect to the network. After uploading the code, the ESP32 generated an IP address. By entering this IP address into a web browser, a web page opened where I could toggle the LEDs on and off. Through this task, I learned how ESP32 can be used to create a simple web server and control devices using a web interface.
 
 
+<h2 align="center">🎥 Project Demo 👇</h2>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=SREb5uNF34I">
+<img src="https://img.youtube.com/vi/SREb5uNF34I/0.jpg" width="500">
+</a>
+</p>
