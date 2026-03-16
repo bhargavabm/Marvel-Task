@@ -164,3 +164,67 @@ width="600">
        alt="LED Soldering Setup" 
        width="600">
 </p>
+
+## Task 14 - Karnaugh Maps and Deriving the logic circuit
+
+# K-Map & Deriving Logic Gates – Burglar Alarm
+
+Objective: Determine the Karnaugh Map (K-map) and design a burglar alarm using simple logic circuits. The buzzer or LED activates when certain conditions are met. Push buttons can be used to represent the door and key inputs.
+
+Outcomes and Learnings: The burglar alarm system is an electronic circuit that detects unauthorized entry and activates an alarm. This system activates the alarm when the door is open and the key is not pressed.
+
+The alarm works based on the following conditions:
+
+- **D denotes the Door**
+  - D = 0 → Closed Door
+  - D = 1 → Open Door
+
+- **K denotes the Key**
+  - K = 0 → Key is not inserted in the door
+  - K = 1 → Key is inserted in the door
+
+- **A denotes the Burglar Alarm**
+  - A = 0 → Alarm OFF
+  - A = 1 → Alarm ON
+
+## Truth Table
+
+| Door (D) | Key (K) | Alarm (A) |
+|----------|---------|-----------|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+From the truth table, the alarm is activated only when the door is open and the key is not inserted.
+
+## Karnaugh Map
+
+| D \ K | 0 | 1 |
+|------|---|---|
+| 0 | 0 | 0 |
+| 1 | 1 | 0 |
+
+After simplifying the K-map, the Boolean expression is:
+
+A = D · K'
+
+Where:
+- D = Door open
+- K' = Key not inserted (NOT K)
+
+## Logic Circuit
+The logic circuit can be implemented using:
+- One **NOT gate**
+- One **AND gate**
+
+Steps:
+1. The key input passes through a NOT gate.
+2. The door input and inverted key signal are connected to an AND gate.
+3. The output of the AND gate activates the alarm (LED or buzzer).
+
+## Simulation
+Push buttons are used to represent the door and key inputs. When the door is opened without inserting the key, the alarm (LED or buzzer) is activated.
+
+## Conclusion
+Using Karnaugh Maps simplifies Boolean expressions and helps design efficient digital logic circuits. In this project, a burglar alarm system was implemented using basic logic gates based on the conditions of the door and key.
