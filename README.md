@@ -228,3 +228,14 @@ Push buttons are used to represent the door and key inputs. When the door is ope
 
 ## Conclusion
 Using Karnaugh Maps simplifies Boolean expressions and helps design efficient digital logic circuits. In this project, a burglar alarm system was implemented using basic logic gates based on the conditions of the door and key.
+
+## Task 15 - Active Participation
+I received a certificate at Kagada 2025 for Poster Making, where I presented a project on generating energy through hydrolysis to power a movable car. The project demonstrated how chemical reactions can be used to produce energy and convert it into mechanical motion for sustainable transportation concepts.
+
+
+<img src="https://github.com/bhargavabm/images/blob/main/Screenshot%202026-03-16%20220355.png?raw=true"
+     alt="Kagada 2025 Poster Making Certificate"
+     width="700">
+
+</body>
+</html>
