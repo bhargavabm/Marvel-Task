@@ -239,3 +239,11 @@ I received a certificate at Kagada 2025 for Poster Making, where I presented a p
 
 </body>
 </html>
+
+## Task 16 -  Datasheets report writing
+
+Objective:
+To study the datasheet of the L293D Motor Driver IC and understand its specifications, working principle, Pulse Width Modulation (PWM), and H-Bridge Circuit used for controlling DC motors.
+
+Outcomes and Learnings:
+I learned about the working, pin configuration, and applications of the L293D Motor Driver IC, and how PWM and H-bridge circuits are used to control the speed and direction of DC motors.
