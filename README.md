@@ -112,8 +112,7 @@ Outcomes and Learnings: This task made use of an Arduino uno board and a motor d
 </div>
 
 ## Task 11 - LED Toggle Using ESP32
-Objective:
-To understand the working of the ESP32 and create a standalone web server using ESP32 to control an LED connected to its GPIO pins.
+Objective: To understand the working of the ESP32 and create a standalone web server using ESP32 to control an LED connected to its GPIO pins.
 
 Outcomes and Learnings:
 In this task, I used an ESP32 microcontroller and two LEDs, which were controlled through the Arduino IDE. The first step was to upload the required code to the ESP32. Then, I entered the mobile hotspot Wi-Fi credentials in the code so that the ESP32 could connect to the network. After uploading the code, the ESP32 generated an IP address. By entering this IP address into a web browser, a web page opened where I could toggle the LEDs on and off. Through this task, I learned how ESP32 can be used to create a simple web server and control devices using a web interface.
@@ -125,5 +124,21 @@ In this task, I used an ESP32 microcontroller and two LEDs, which were controlle
 <p align="center">
 <a href="https://www.youtube.com/watch?v=SREb5uNF34I">
 <img src="https://img.youtube.com/vi/SREb5uNF34I/0.jpg" width="500">
+</a>
+</p>
+
+
+## Task 12 - Soldering Prerequisites
+Objective: To learn about the soldering equipment and perform basic soldering on a perf board, such as building a simple LED circuit.
+
+Outcomes and Learnings:
+I soldered a simple LED circuit on a perf board. The soldering iron was set to a temperature of around 300°C during the process. This helped me understand how to use soldering equipment and perform basic soldering safely.
+<h3>LED Soldering Video</h3>
+
+<h3 align="center">🎥 LED Soldering Video 👇</h3>
+
+<p align="center">
+<a href="https://youtube.com/shorts/IqS_VTHOJAU?si=3-EaziQx_pnRtxkb">
+<img src="https://img.youtube.com/vi/IqS_VTHOJAU/maxresdefault.jpg" width="400">
 </a>
 </p>
