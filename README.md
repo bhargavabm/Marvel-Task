@@ -247,3 +247,5 @@ To study the datasheet of the L293D Motor Driver IC and understand its specifica
 
 Outcomes and Learnings:
 I learned about the working, pin configuration, and applications of the L293D Motor Driver IC, and how PWM and H-bridge circuits are used to control the speed and direction of DC motors.
+
+Read tha article [here](https://github.com/bhargavabm/images/blob/main/l293d-datasheet-report.md)
