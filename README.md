@@ -142,3 +142,25 @@ I soldered a simple LED circuit on a perf board. The soldering iron was set to a
 <img src="https://img.youtube.com/vi/IqS_VTHOJAU/maxresdefault.jpg" width="400">
 </a>
 </p>
+
+## Task 13 -  555 IC astable multivibrator with 60% duty cycle
+Objective: Design a 555 IC astable multivibrator with 60% duty cycle.
+
+Outcomes and Learnings: I learnt about Integrated Circuits and timer made for electronic circuits using 555 IC. An oscilloscope was used to read the wave form and detect the duty cycle. The duty cycle obtained was 60.22%.
+
+This is the connection that is to be made on the breadboard.
+<h3>Experimental Setup</h3>
+
+<img src="https://github.com/bhargavabm/images/blob/main/Screenshot%202026-03-16%20213741.png?raw=true" 
+alt="Soldering LED Circuit" 
+width="600">
+
+<img src="https://github.com/bhargavabm/images/blob/main/WhatsApp%20Image%202026-03-16%20at%209.40.34%20PM.jpeg?raw=true" 
+       alt="Soldering LED Circuit" 
+       width="600">
+</p>
+
+  <img src="https://github.com/bhargavabm/images/blob/main/WhatsApp%20Image%202026-03-16%20at%209.40.50%20PM.jpeg?raw=true" 
+       alt="LED Soldering Setup" 
+       width="600">
+</p>
