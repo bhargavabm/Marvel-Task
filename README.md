@@ -283,3 +283,5 @@ Objective: To develop a Resource Library website using Express.js that allows us
 Learning Outcomes: Gain skills in backend development with Node.js, database integration, routing, and user authentication.
 
 [Click here](https://resource-library-production-a1a3.up.railway.app/)
+
+<img src="https://raw.githubusercontent.com/bhargavabm/images/main/IMG-20260317-WA0008.jpg" alt="Image" width="300">
