@@ -192,7 +192,7 @@ width="600">
 ---
 ## Task 14 - Karnaugh Maps and Deriving the logic circuit
 
-# K-Map & Deriving Logic Gates – Burglar Alarm
+### K-Map & Deriving Logic Gates – Burglar Alarm
 
 Objective: Determine the Karnaugh Map (K-map) and design a burglar alarm using simple logic circuits. The buzzer or LED activates when certain conditions are met. Push buttons can be used to represent the door and key inputs.
 
@@ -212,7 +212,7 @@ The alarm works based on the following conditions:
   - A = 0 → Alarm OFF
   - A = 1 → Alarm ON
 
-## Truth Table
+### Truth Table
 
 | Door (D) | Key (K) | Alarm (A) |
 |----------|---------|-----------|
@@ -223,7 +223,7 @@ The alarm works based on the following conditions:
 
 From the truth table, the alarm is activated only when the door is open and the key is not inserted.
 
-## Karnaugh Map
+### Karnaugh Map
 
 | D \ K | 0 | 1 |
 |------|---|---|
@@ -238,7 +238,7 @@ Where:
 - D = Door open
 - K' = Key not inserted (NOT K)
 
-## Logic Circuit
+### Logic Circuit
 The logic circuit can be implemented using:
 - One **NOT gate**
 - One **AND gate**
@@ -248,10 +248,10 @@ Steps:
 2. The door input and inverted key signal are connected to an AND gate.
 3. The output of the AND gate activates the alarm (LED or buzzer).
 
-## Simulation
+### Simulation
 Push buttons are used to represent the door and key inputs. When the door is opened without inserting the key, the alarm (LED or buzzer) is activated.
 
-## Conclusion
+### Conclusion
 Using Karnaugh Maps simplifies Boolean expressions and helps design efficient digital logic circuits. In this project, a burglar alarm system was implemented using basic logic gates based on the conditions of the door and key.
 
 ---
