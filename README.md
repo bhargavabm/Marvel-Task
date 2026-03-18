@@ -278,7 +278,7 @@ I learned about the working, pin configuration, and applications of the L293D Mo
 Read tha article [here](https://github.com/bhargavabm/images/blob/main/l293d-datasheet-report.md)
 
 ---
-## Task 18 - Make a Web app
+## Task 17 - Make a Web app
 Objective: To develop a Resource Library website using Express.js that allows users to browse resources and manage their accounts.
 
 Learning Outcomes: Gain skills in backend development with Node.js, database integration, routing, and user authentication.
