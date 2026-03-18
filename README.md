@@ -281,7 +281,7 @@ Read tha article [here](https://github.com/bhargavabm/images/blob/main/l293d-dat
 ## Task 17 - Make a Web app
 Objective: To develop a Resource Library website using Express.js that allows users to browse resources and manage their accounts.
 
-Learning Outcomes: Gain skills in backend development with Node.js, database integration, routing, and user authentication.
+Learning and Outcomes: Gain skills in backend development with Node.js, database integration, routing, and user authentication.
 
 Please [Click here](https://resource-library-production-a1a3.up.railway.app/) to visit my website.
 
