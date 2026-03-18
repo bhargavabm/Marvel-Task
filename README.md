@@ -6,7 +6,7 @@ This repository contains all my Marvel tasks and projects.
 Objective: Understand the working of a 3D printer, check out the online resources. Understand what's an STL file, and then learn to slice it. Go through the SOP'S regarding the 3d printer. Learn about bed temperature, infill density and other printer settings. Finally get an STL file from the internet, and slice it and put it for print.
 
 Outcomes and Learnings:
-I explored the basic concepts of 3D printing and learned how it works, including understanding parameters such as bed temperature and materials like PLA. I used the Thingiverse website to download the model’s STL file. Then the Creality Slicer software was used to customize the STL file settings such as infill density, infill pattern, support structures (if required), and printing speed.
+I explored the basic concepts of 3D printing and learned how it works, including understanding parameters such as bed temperature and materials like PLA. I used the Thingiverse website to download the model’s STL file.
 
 After configuring the settings, the model was sliced, which converts the 3D model into multiple printable layers. The estimated printing time was_____ minutes. The printer used for this 3D printing process was the __________ .
 
